@@ -1,0 +1,6 @@
+framework module Pods_WZNamespaceWrappable_Example {
+  umbrella header "Pods-WZNamespaceWrappable_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

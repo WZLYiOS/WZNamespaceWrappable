@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WZNamespaceWrappable_Example' do
+  pod 'WZNamespaceWrappable', :path => '../'
+
+  target 'WZNamespaceWrappable_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
