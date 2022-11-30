@@ -1,5 +1,5 @@
 PODS:
-  - WZNamespaceWrappable (1.0.0)
+  - WZNamespaceWrappable (2.1.0)
 
 DEPENDENCIES:
   - WZNamespaceWrappable (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  WZNamespaceWrappable: 9cda00a09d150b9347ffbcb6cd4d8b8a123ed8f2
+  WZNamespaceWrappable: 623a9dd6f9bf21971d6d2d5a211bf1716c3727c3
 
-PODFILE CHECKSUM: 9bbd325ece24b98157546e4a4728364cc98176c2
+PODFILE CHECKSUM: 1119bbe5714b30bc0efcc2d4e032e06fc65a887f
 
-COCOAPODS: 1.9.1
+COCOAPODS: 1.10.0
