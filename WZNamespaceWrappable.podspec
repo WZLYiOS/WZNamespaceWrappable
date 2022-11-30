@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WZNamespaceWrappable'
-  s.version          = '2.1.1'
+  s.version          = '2.1.2'
   s.summary          = 'A short description of WZNamespaceWrappable'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
@@ -20,8 +20,8 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/WZLYiOS/WZNamespaceWrappable.git', :tag => s.version.to_s }
   
   s.static_framework = true
-  s.swift_versions   = '5.3'
+  s.swift_versions   = '5.0'
   s.requires_arc = true
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '10.0'
   s.source_files = 'WZNamespaceWrappable/Classes/**/*'
 end
