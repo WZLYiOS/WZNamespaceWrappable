@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WZNamespaceWrappable'
-  s.version          = '2.1.2'
+  s.version          = '2.1.3'
   s.summary          = 'A short description of WZNamespaceWrappable'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
